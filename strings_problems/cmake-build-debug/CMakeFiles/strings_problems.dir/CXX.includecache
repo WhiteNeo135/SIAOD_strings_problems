@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrey/Projects/c++/strings_problems/main.cpp
+tasks.cpp
+/home/andrey/Projects/c++/strings_problems/tasks.cpp
+
+/home/andrey/Projects/c++/strings_problems/tasks.cpp
+iostream
+-
+string
+-
+algorithm
+-
+

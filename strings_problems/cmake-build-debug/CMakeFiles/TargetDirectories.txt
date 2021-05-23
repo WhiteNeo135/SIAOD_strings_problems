@@ -1,0 +1,3 @@
+/home/andrey/Projects/c++/strings_problems/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrey/Projects/c++/strings_problems/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrey/Projects/c++/strings_problems/cmake-build-debug/CMakeFiles/strings_problems.dir
